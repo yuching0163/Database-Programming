@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+.information{
+	font-size:28px;
+	height: 25%;
+}
+
+table{
+	width:90%;
+	height:30%;
+
+}
+
+tr{
+	font-size:28px;
+  	text-align: center;
+  }
+
+.c1, .c2, .c3, .c4 {
+	width:50%;
+}
+
+h1{
+	font-size:38px;
+	text-align: center;
+}
+
+
+@media (max-width: 1024px) {
+	h1{
+		font-size:28px;
+			text-align: left;
+	}
+
+	.information{
+	font-size:18px;
+	height: 20%;
+	}
+
+	tr{
+	font-size:12px;
+  	text-align: center;
+  }
+
+}
+
+@media (max-width: 640px) {
+	h1{
+		font-size:24px;
+		text-align: left;
+	}
+
+	.information{
+	font-size:12px;
+	height: 20%;
+	}
+
+	tr{
+	font-size:10px;
+  	text-align: center;
+  	height: 30%;
+
+  }
+
+}
