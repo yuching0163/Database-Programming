@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	width:100%;
+	height:1920px;
+	background-image: url("image/expenserecordbackground.png");
+	background-size: 100% 1920px;
+	background-repeat: no-repeat;
+}
+
+.blank{
+	height: 8%;
+}
+
+td{
+  text-align: center;
+}
+
+.record{
+  text-align: center;
+  }
+
+select{
+	color:black;
+}
+
+form{
+	margin:0px; 
+	display:inline;
+}

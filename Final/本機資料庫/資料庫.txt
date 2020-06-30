@@ -1,0 +1,6 @@
+¥»¾÷:
+$link = mysqli_connect("localhost","root","","database")
+
+ºô­¶:
+$link = mysqli_connect('sql200.byethost.com', 'b7_22012081', 'lucky777', 'b7_22012081_news')
+
